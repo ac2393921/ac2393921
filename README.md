@@ -1,7 +1,14 @@
-<p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ac2393921&theme=vue-dark&show_icons=true&layout=compact" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=ac2393921&theme=vue-dark&show_icons=true" />
-</p>
+<div width="100px">
+  <img src="https://raw.githubusercontent.com/ac2393921/ac2393921/main/profile-summary-card-output/solarized_dark/0-profile-details.svg">
+  <div align="left">
+    <img alt="Top Langs" height="145px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ac2393921&theme=solarized-dark&show_icons=true&layout=compact&hide_border=true" />
+    <img alt="github stats" height="145px" width="360px" src="https://github-readme-stats.vercel.app/api?username=ac2393921&theme=solarized-dark&show_icons=true&hide_border=true" />
+  </div>
+  <div align="left">
+    <img alt="Repos per language" src="https://raw.githubusercontent.com/ac2393921/ac2393921/main/profile-summary-card-output/solarized_dark/1-repos-per-language.svg" />
+    <img alt="Most commit language" src="https://raw.githubusercontent.com/ac2393921/ac2393921/main/profile-summary-card-output/solarized_dark/2-most-commit-language.svg" />
+  </div>
+</div>
 
 <!--
 **ac2393921/ac2393921** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
