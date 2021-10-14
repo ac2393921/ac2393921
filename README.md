@@ -1,4 +1,6 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Masaya's GitHub stats](https://github-readme-stats.vercel.app/api?username=ac2393921&theme=vue-dark&show_icons=true)](https://github.com/ac2393921/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ac2393921&theme=vue-dark&show_icons=true&layout=compact)](https://github.com/ac2393921/github-readme-stats)
 
 <!--
 **ac2393921/ac2393921** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
