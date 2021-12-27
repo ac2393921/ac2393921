@@ -1,13 +1,17 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1629187391/48673/doge.png?1629187391" width="30"/> Hi there!</h1>
+<h1>
+  <img src="https://emojis.slackmojis.com/emojis/images/1629187391/48673/doge.png?1629187391" width="30"/>
+  Hi there!
+</h1>
 
-<p>Welcome to my page!</p>
+<p>Welcome to my page! <img src="https://emojis.slackmojis.com/emojis/images/1612948491/12491/waveboi.gif?1612948491" width="30"/></p>
 
 <h3>Things I code with</h3>
 <p>
   <img alt="Python" src="https://img.shields.io/badge/-Python-4179b6?style=flat-square&logo=python&logoColor=FFDC3A" />
   <img alt="PHP" src="https://img.shields.io/badge/-PHP-7377ad?style=flat-square&logo=php&logoColor=white" />
   <img alt="Go" src="https://img.shields.io/badge/-Go-FFFFFF?style=flat-square&logo=go&logoColor=1EBCAF" />
-  <img alt="OpenCV" src="https://img.shields.io/badge/-OpenCV-0000F3?style=flat-square&logo=opencv&logoColor=F20000" />
+  <img alt="Pytorch" src="https://img.shields.io/badge/-Pytorch-FFFFFF?style=flat-square&logo=pytorch&logoColor=EE4926" />
+  <img alt="OpenCV" src="https://img.shields.io/badge/-OpenCV-lightgreen?style=flat-square&logo=opencv&logoColor=red" />
   <img alt="jupyter" src="https://img.shields.io/badge/-jupyter-767677?style=flat-square&logo=jupyter&logoColor=F37726" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
