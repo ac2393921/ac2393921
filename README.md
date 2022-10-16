@@ -31,7 +31,7 @@
 <div width="100px">
   <img src="https://raw.githubusercontent.com/ac2393921/ac2393921/main/profile-summary-card-output/solarized_dark/0-profile-details.svg">
   <div align="left">
-    <img alt="Top Langs" height="145px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ac2393921&theme=solarized-dark&show_icons=true&layout=compact&hide_border=true" />
+    <img alt="Top Langs" height="145px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ac2393921&theme=solarized-dark&show_icons=true&layout=compact&hide_border=true&hide=jupyter%20notebook" />
     <img alt="github stats" height="145px" width="360px" src="https://github-readme-stats.vercel.app/api?username=ac2393921&theme=solarized-dark&show_icons=true&hide_border=true" />
   </div>
   <div align="left">
