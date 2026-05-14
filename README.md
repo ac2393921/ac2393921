@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=ac2393921&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Engineer%20%7C%20AI%20Explorer&descAlignY=55&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=k4k1fry&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Engineer%20%7C%20AI%20Explorer&descAlignY=55&descSize=18" width="100%"/>
 </div>
 
 <div align="center">
@@ -43,24 +43,24 @@
 
 <h3>My activities</h3>
 <div width="100px">
-  <img src="https://raw.githubusercontent.com/ac2393921/ac2393921/main/profile-summary-card-output/tokyonight/0-profile-details.svg">
+  <img src="https://raw.githubusercontent.com/k4k1fry/k4k1fry/main/profile-summary-card-output/tokyonight/0-profile-details.svg">
   <div align="left">
-    <img alt="Top Langs" height="145px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ac2393921&theme=tokyonight&show_icons=true&layout=compact&hide_border=true&hide=jupyter%20notebook" />
-    <img alt="github stats" height="145px" width="360px" src="https://github-readme-stats.vercel.app/api?username=ac2393921&theme=tokyonight&show_icons=true&hide_border=true" />
+    <img alt="Top Langs" height="145px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=k4k1fry&theme=tokyonight&show_icons=true&layout=compact&hide_border=true&hide=jupyter%20notebook" />
+    <img alt="github stats" height="145px" width="360px" src="https://github-readme-stats.vercel.app/api?username=k4k1fry&theme=tokyonight&show_icons=true&hide_border=true" />
   </div>
   <div align="left">
-    <img alt="Repos per language" src="https://raw.githubusercontent.com/ac2393921/ac2393921/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" />
-    <img alt="Most commit language" src="https://raw.githubusercontent.com/ac2393921/ac2393921/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" />
+    <img alt="Repos per language" src="https://raw.githubusercontent.com/k4k1fry/k4k1fry/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" />
+    <img alt="Most commit language" src="https://raw.githubusercontent.com/k4k1fry/k4k1fry/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" />
   </div>
 </div>
 
 <h3>Contribution Graph Animation</h3>
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ac2393921/ac2393921/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%"/>
+  <img src="https://raw.githubusercontent.com/k4k1fry/k4k1fry/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%"/>
 </div>
 
 <!--
-**ac2393921/ac2393921** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**k4k1fry/k4k1fry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
