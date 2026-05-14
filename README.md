@@ -43,20 +43,20 @@
 
 <h3>My activities</h3>
 <div width="100px">
-  <img src="https://raw.githubusercontent.com/k4k1fry/k4k1fry/main/profile-summary-card-output/tokyonight/0-profile-details.svg">
+  <img src="https://raw.githubusercontent.com/ac2393921/ac2393921/main/profile-summary-card-output/tokyonight/0-profile-details.svg">
   <div align="left">
-    <img alt="Top Langs" height="145px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=k4k1fry&theme=tokyonight&show_icons=true&layout=compact&hide_border=true&hide=jupyter%20notebook" />
-    <img alt="github stats" height="145px" width="360px" src="https://github-readme-stats.vercel.app/api?username=k4k1fry&theme=tokyonight&show_icons=true&hide_border=true" />
+    <img alt="Top Langs" height="145px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ac2393921&theme=tokyonight&show_icons=true&layout=compact&hide_border=true&hide=jupyter%20notebook" />
+    <img alt="github stats" height="145px" width="360px" src="https://github-readme-stats.vercel.app/api?username=ac2393921&theme=tokyonight&show_icons=true&hide_border=true" />
   </div>
   <div align="left">
-    <img alt="Repos per language" src="https://raw.githubusercontent.com/k4k1fry/k4k1fry/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" />
-    <img alt="Most commit language" src="https://raw.githubusercontent.com/k4k1fry/k4k1fry/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" />
+    <img alt="Repos per language" src="https://raw.githubusercontent.com/ac2393921/ac2393921/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" />
+    <img alt="Most commit language" src="https://raw.githubusercontent.com/ac2393921/ac2393921/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" />
   </div>
 </div>
 
 <h3>Contribution Graph Animation</h3>
 <div align="center">
-  <img src="https://raw.githubusercontent.com/k4k1fry/k4k1fry/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%"/>
+  <img src="https://raw.githubusercontent.com/ac2393921/ac2393921/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%"/>
 </div>
 
 <!--
