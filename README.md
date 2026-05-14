@@ -42,15 +42,15 @@
 </p>
 
 <h3>My activities</h3>
-<div width="100px">
-  <img src="https://raw.githubusercontent.com/ac2393921/ac2393921/main/profile-summary-card-output/tokyonight/0-profile-details.svg">
-  <div align="left">
-    <img alt="Top Langs" height="145px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ac2393921&theme=tokyonight&show_icons=true&layout=compact&hide_border=true&hide=jupyter%20notebook" />
-    <img alt="github stats" height="145px" width="360px" src="https://github-readme-stats.vercel.app/api?username=ac2393921&theme=tokyonight&show_icons=true&hide_border=true" />
-  </div>
+<div>
+  <img src="https://raw.githubusercontent.com/ac2393921/ac2393921/main/profile-summary-card-output/tokyonight/0-profile-details.svg" width="100%">
   <div align="left">
     <img alt="Repos per language" src="https://raw.githubusercontent.com/ac2393921/ac2393921/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" />
     <img alt="Most commit language" src="https://raw.githubusercontent.com/ac2393921/ac2393921/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" />
+  </div>
+  <div align="left">
+    <img alt="Stats" src="https://raw.githubusercontent.com/ac2393921/ac2393921/main/profile-summary-card-output/tokyonight/3-stats.svg" />
+    <img alt="Productive time" src="https://raw.githubusercontent.com/ac2393921/ac2393921/main/profile-summary-card-output/tokyonight/4-productive-time.svg" />
   </div>
 </div>
 
