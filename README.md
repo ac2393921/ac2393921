@@ -1,7 +1,3 @@
-<table>
-<tr>
-<td valign="top">
-
 ```sh
 ╭──────────────────────────────────────────────╮
 │  k4k1fry@github  ~  [session: active]        │
@@ -24,23 +20,3 @@ $ cat stack.conf
   Docker  GitHub Actions  Terraform  PostgreSQL
   Elasticsearch  Google Cloud  Git
 ```
-
-</td>
-<td valign="middle" align="center">
-
-```
-    _______
-   / * * * \
-  |  (^)(^) |
-  |    ᴗ    |
-   \ * * * /
-    `-------'
-  ~~~~~~~~~~~
-      /\
-     /  \
-    /vvvv\
-```
-
-</td>
-</tr>
-</table>
