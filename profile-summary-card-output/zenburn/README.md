@@ -42,23 +42,3 @@
 ```
 
     
-
----
-
-![](./3-stats.svg)
-
-```
-![](https://raw.githubusercontent.com/ac2393921/ac2393921/main/profile-summary-card-output/zenburn/3-stats.svg)
-```
-
-    
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/ac2393921/ac2393921/main/profile-summary-card-output/zenburn/4-productive-time.svg)
-```
-
-    
